@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+.container__form {
+  padding: 2% 15%;}
+
+.page__title{
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #000;
+  margin-bottom: 1rem; 
+  text-align: center;}
+
+  .form-label__contact{
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #000;
+    margin-bottom: 1rem; 
+    text-align: center;}
